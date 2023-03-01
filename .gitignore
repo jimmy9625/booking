@@ -1,0 +1,26 @@
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Gradle specific
+.gradle/
+build/
+
+# Screenplay specific
+serenity.properties
+target/
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Other
+node_modules/
